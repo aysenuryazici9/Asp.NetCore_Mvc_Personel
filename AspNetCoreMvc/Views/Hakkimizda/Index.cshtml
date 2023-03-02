@@ -1,0 +1,165 @@
+﻿@using AspNetCoreMvc.Models
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_TestLayout.cshtml";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>W3.CSS Template</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="~/hakkimizdacss/hakkimizdacss.css" rel="stylesheet" />
+</head>
+<body>
+    <br />
+    <div class="w3-content">
+        <div class="w3-container">
+            <div class="w3-display-container mySlides">
+                <img src="~/img/hakkimizda.jpg" style="width:100%">
+            </div>
+            <div class="w3-row w3-container">
+                <div class="w3-center w3-padding-64">
+                    <span class="w3-xlarge w3-bottombar w3-border-dark-grey w3-padding-16">Biz Kimiz?</span>
+                </div>
+                <div class="w3-col l3 m6 w3-light-grey w3-container w3-padding-16">
+                    <h3>Tasarım</h3>
+                    <p>Başarılı ve tasarım yeteneği güçlü ekibimizle her sektör için,istediğiniz özelliklerde tasarım yapıyoruz. Tasarımın firmalar için olan öneminin farkındayız ve size bu alanda güçlü çalışmalar sunurak sektörünüzde fark oluşturmanızı sağlıyoruz.</p>
+                </div>
+
+                <div class="w3-col l3 m6 w3-grey w3-container w3-padding-16">
+                    <h3>Markalaşma</h3>
+                    <p>Yeni firmalar veya var olan ama markalaşma sağlayamayan firmalar için markalaşma sürecinde sizlere destek sağlıyoruz. Bu süreçte ihtiyacınız olan tüm hizmetleri sizlere sunarak yurtiçi ve yurtdışı konumlarda markalaşmanızı sağlıyoruz. </p>
+                </div>
+
+                <div class="w3-col l3 m6 w3-dark-grey w3-container w3-padding-16">
+                    <h3>Danışma</h3>
+                    <p>Sektöre yeni mi katıldınız veya sektördesiniz ama ilerleme sağlayamıyor musunuz? O zaman hemen bizimle iletişime geçin.Hangi seviyede olursanız olun danışma alanındaki profesyonel ekibimizle sizlerin sektörde ilerlemenizi sağlıyoruz.  </p>
+                </div>
+
+                <div class="w3-col l3 m6 w3-black w3-container w3-padding-16">
+                    <h3>Sektör</h3>
+                    <p>Profesyonel ekiplerimizle tanışın. Tüm birimlerimizde çalışmakta olan ve kendi alanlarında deneyimli ,başarılı ve profesyonel çalışma arkadaşlarımızla sizlere çalışma ,ilerleme ve başarı alanlarında destek sağlayarak sizleri de geliştiriyoruz. </p>
+                </div>
+            </div>
+            <div class="w3-row-padding" id="about">
+                <div class="w3-center w3-padding-64">
+                    <span class="w3-xlarge w3-bottombar w3-border-dark-grey w3-padding-16">Çalışan Konumlarımız</span>
+                </div>
+
+                <div class="w3-third w3-margin-bottom">
+                    <div class="w3-card-4">
+                        <img src="~/img/avatar.jpg" alt="John" style="width:100%">
+                        <div class="w3-container">
+                            <h3>ALPARSLAN YÜCE</h3>
+                            <p class="w3-opacity">Marka & İletişim</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="w3-third w3-margin-bottom">
+                    <div class="w3-card-4">
+                        <img src="~/img/calisan.png" alt="Mike" style="width:100%">
+                        <div class="w3-container">
+                            <h3>KÜBRA SARI</h3>
+                            <p class="w3-opacity">Satış Müdürü</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="w3-third w3-margin-bottom">
+                    <div class="w3-card-4">
+                        <img src="~/img/calisan2.jpg" alt="Jane" style="width:100%">
+                        <div class="w3-container">
+                            <h3>BENGÜ YILDIRIM</h3>
+                            <p class="w3-opacity">Yazılım Geliştirici</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="w3-center w3-padding-64" id="contact">
+                <span class="w3-xlarge w3-bottombar w3-border-dark-grey w3-padding-16">Bizimle İletişime Geçin</span>
+            </div>
+
+            <form class="w3-container" action="/Hakkimizda/Index/" target="_blank">
+                <div class="w3-section">
+                    <label>Ad</label>
+                    <input class="w3-input w3-border w3-hover-border-black" style="width:100%;" type="text" name="Ad" required>
+                </div>
+                <div class="w3-section">
+                    <label>Mail</label>
+                    <input class="w3-input w3-border w3-hover-border-black" style="width:100%;" type="text" name="Mail" required>
+                </div>
+                <div class="w3-section">
+                    <label>Konu</label>
+                    <input class="w3-input w3-border w3-hover-border-black" style="width:100%;" name="Konu" required>
+                </div>
+                <div class="w3-section">
+                    <label>Mesaj</label>
+                    <input class="w3-input w3-border w3-hover-border-black" style="width:100%;" name="Mesaj" required>
+                </div>
+                <button  type="submit" class="w3-button w3-block w3-black">Gönder</button>
+            </form>
+
+        </div>
+        <br />
+        <div class="footer" style="background-color:#f1f1f1; padding-bottom: 30px;">
+            <div class="footer_container" style="padding-left:160px;padding-top:40px;">
+                <div id="kutu" style="">
+                    <b style="color: #4f4f4f;">Site Sayfaları</b>
+                    <ul>
+                        <li><a style="font-size:15px;" href="/Default/Index/">Ana Sayfa</a></li>
+                        <li><a style="font-size:15px;" href="/Personelim/Index/">Personeller</a></li>
+                        <li><a style="font-size:15px;" href="/Hakkimizda/Index/">Hakkımızda</a></li>
+                    </ul>
+                </div>
+                <div id="kutu"style="margin-left: 350px; margin-top: -94px;">
+                    <b style="color: #4f4f4f; ">İletişim</b>
+                    <ul>
+                        <li style="margin-top:-12px;"><a style="color: #337ab7;" ><h5>Ayşenur YAZICI</h5></a></li>
+                        <li style="margin-top:-4px;"><a style="color: #337ab7;">Tel: 0 324 481 48 01</a></li>
+                        <li style="margin-top:2px;"><a style="color: #337ab7;">M: example@gmail.com</a></li>
+                    </ul>
+                </div>
+                <div id="kutu" style="margin-left:200px;">
+                    <b style="color: #4f4f4f; ">Sosyal Medya</b>
+                    <br /><br />
+                    <a href="#"><img style="width:36px;height:30px;" src="~/img/icon1.png" alt=""></a>
+                    <a href="#"><img style="width:36px;height:30px;" src="~/img/ins.png" alt=""></a>
+                    <a href="#"><img style="width:36px;height:30px;" src="~/img/icon4.png" alt=""></a>
+                    <a href="#"><img style="width:36px;height:30px;" src="~/img/icon2.png" alt=""></a>
+
+                </div>
+            </div>
+        </div>
+        <script>
+            var slideIndex = 1;
+            showDivs(slideIndex);
+
+            function plusDivs(n) {
+                showDivs(slideIndex += n);
+            }
+
+            function currentDiv(n) {
+                showDivs(slideIndex = n);
+            }
+
+            function showDivs(n) {
+                var i;
+                var x = document.getElementsByClassName("mySlides");
+                var dots = document.getElementsByClassName("demodots");
+                if (n > x.length) { slideIndex = 1 }
+                if (n < 1) { slideIndex = x.length };
+                for (i = 0; i < x.length; i++) {
+                    x[i].style.display = "none";
+                }
+                for (i = 0; i < dots.length; i++) {
+                    dots[i].className = dots[i].className.replace(" w3-white", "");
+                }
+                x[slideIndex - 1].style.display = "block";
+                dots[slideIndex - 1].className += " w3-white";
+            }
+        </script>
+    </div>
+</body>
+</html>

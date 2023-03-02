@@ -1,0 +1,20 @@
+﻿@model AspNetCoreMvc.Models.Personel
+@{
+    ViewData["Title"] = "PersonelBilgi";
+    Layout = "~/Views/Shared/_TestLayout.cshtml";
+}
+
+<h2>Personel Bilgileri</h2>
+<br />
+<b>Personel ID</b>
+@Html.TextBoxFor(x => x.PersonelID, new { @class = "form-control" })
+<br />
+<b>Ad</b>
+@Html.TextBoxFor(x => x.Ad, new { @class = "form-control" })
+<br />
+<b>Soyad</b>
+@Html.TextBoxFor(x => x.Soyad, new { @class = "form-control" })
+<br/>
+<b>Şehir</b>
+@Html.TextBoxFor(x => x.Sehir, new { @class = "form-control" })
+

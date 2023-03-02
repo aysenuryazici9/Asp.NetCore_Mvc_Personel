@@ -1,0 +1,60 @@
+C:\Users\90536\Desktop\Asp.Net Core 100 Ders\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp2.0\AspNetCoreMvc.deps.json
+C:\Users\90536\Desktop\Asp.Net Core 100 Ders\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp2.0\AspNetCoreMvc.runtimeconfig.json
+C:\Users\90536\Desktop\Asp.Net Core 100 Ders\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp2.0\AspNetCoreMvc.runtimeconfig.dev.json
+C:\Users\90536\Desktop\Asp.Net Core 100 Ders\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp2.0\AspNetCoreMvc.dll
+C:\Users\90536\Desktop\Asp.Net Core 100 Ders\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp2.0\AspNetCoreMvc.pdb
+C:\Users\90536\Desktop\Asp.Net Core 100 Ders\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp2.0\AspNetCoreMvc.csprojAssemblyReference.cache
+C:\Users\90536\Desktop\Asp.Net Core 100 Ders\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp2.0\AspNetCoreMvc.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\Asp.Net Core 100 Ders\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp2.0\AspNetCoreMvc.AssemblyInfoInputs.cache
+C:\Users\90536\Desktop\Asp.Net Core 100 Ders\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp2.0\AspNetCoreMvc.AssemblyInfo.cs
+C:\Users\90536\Desktop\Asp.Net Core 100 Ders\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp2.0\AspNetCoreMvc.dll
+C:\Users\90536\Desktop\Asp.Net Core 100 Ders\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp2.0\AspNetCoreMvc.pdb
+C:\Users\90536\Desktop\aspnetcoremvckopya\AspNetCoreMvcPersonel\AspNetCoreMvc\bin\Debug\netcoreapp2.0\AspNetCoreMvc.deps.json
+C:\Users\90536\Desktop\aspnetcoremvckopya\AspNetCoreMvcPersonel\AspNetCoreMvc\bin\Debug\netcoreapp2.0\AspNetCoreMvc.runtimeconfig.json
+C:\Users\90536\Desktop\aspnetcoremvckopya\AspNetCoreMvcPersonel\AspNetCoreMvc\bin\Debug\netcoreapp2.0\AspNetCoreMvc.runtimeconfig.dev.json
+C:\Users\90536\Desktop\aspnetcoremvckopya\AspNetCoreMvcPersonel\AspNetCoreMvc\bin\Debug\netcoreapp2.0\AspNetCoreMvc.dll
+C:\Users\90536\Desktop\aspnetcoremvckopya\AspNetCoreMvcPersonel\AspNetCoreMvc\bin\Debug\netcoreapp2.0\AspNetCoreMvc.pdb
+C:\Users\90536\Desktop\aspnetcoremvckopya\AspNetCoreMvcPersonel\AspNetCoreMvc\obj\Debug\netcoreapp2.0\AspNetCoreMvc.csprojAssemblyReference.cache
+C:\Users\90536\Desktop\aspnetcoremvckopya\AspNetCoreMvcPersonel\AspNetCoreMvc\obj\Debug\netcoreapp2.0\AspNetCoreMvc.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\aspnetcoremvckopya\AspNetCoreMvcPersonel\AspNetCoreMvc\obj\Debug\netcoreapp2.0\AspNetCoreMvc.AssemblyInfoInputs.cache
+C:\Users\90536\Desktop\aspnetcoremvckopya\AspNetCoreMvcPersonel\AspNetCoreMvc\obj\Debug\netcoreapp2.0\AspNetCoreMvc.AssemblyInfo.cs
+C:\Users\90536\Desktop\aspnetcoremvckopya\AspNetCoreMvcPersonel\AspNetCoreMvc\obj\Debug\netcoreapp2.0\AspNetCoreMvc.dll
+C:\Users\90536\Desktop\aspnetcoremvckopya\AspNetCoreMvcPersonel\AspNetCoreMvc\obj\Debug\netcoreapp2.0\AspNetCoreMvc.pdb
+C:\Users\90536\Desktop\Asp.Net Core 100 Ders\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\bin\Debug\netcoreapp2.0\AspNetCoreMvc.deps.json
+C:\Users\90536\Desktop\Asp.Net Core 100 Ders\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\bin\Debug\netcoreapp2.0\AspNetCoreMvc.runtimeconfig.json
+C:\Users\90536\Desktop\Asp.Net Core 100 Ders\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\bin\Debug\netcoreapp2.0\AspNetCoreMvc.runtimeconfig.dev.json
+C:\Users\90536\Desktop\Asp.Net Core 100 Ders\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\bin\Debug\netcoreapp2.0\AspNetCoreMvc.dll
+C:\Users\90536\Desktop\Asp.Net Core 100 Ders\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\bin\Debug\netcoreapp2.0\AspNetCoreMvc.pdb
+C:\Users\90536\Desktop\Asp.Net Core 100 Ders\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\obj\Debug\netcoreapp2.0\AspNetCoreMvc.csprojAssemblyReference.cache
+C:\Users\90536\Desktop\Asp.Net Core 100 Ders\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\obj\Debug\netcoreapp2.0\AspNetCoreMvc.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\Asp.Net Core 100 Ders\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\obj\Debug\netcoreapp2.0\AspNetCoreMvc.AssemblyInfoInputs.cache
+C:\Users\90536\Desktop\Asp.Net Core 100 Ders\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\obj\Debug\netcoreapp2.0\AspNetCoreMvc.AssemblyInfo.cs
+C:\Users\90536\Desktop\Asp.Net Core 100 Ders\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\obj\Debug\netcoreapp2.0\AspNetCoreMvc.dll
+C:\Users\90536\Desktop\Asp.Net Core 100 Ders\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\obj\Debug\netcoreapp2.0\AspNetCoreMvc.pdb
+C:\Users\90536\Desktop\MVCTamamlananProjeler\AspNetMvcCorePersonel(100video1.projesi)\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\bin\Debug\netcoreapp2.0\AspNetCoreMvc.deps.json
+C:\Users\90536\Desktop\MVCTamamlananProjeler\AspNetMvcCorePersonel(100video1.projesi)\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\bin\Debug\netcoreapp2.0\AspNetCoreMvc.runtimeconfig.json
+C:\Users\90536\Desktop\MVCTamamlananProjeler\AspNetMvcCorePersonel(100video1.projesi)\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\bin\Debug\netcoreapp2.0\AspNetCoreMvc.runtimeconfig.dev.json
+C:\Users\90536\Desktop\MVCTamamlananProjeler\AspNetMvcCorePersonel(100video1.projesi)\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\bin\Debug\netcoreapp2.0\AspNetCoreMvc.dll
+C:\Users\90536\Desktop\MVCTamamlananProjeler\AspNetMvcCorePersonel(100video1.projesi)\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\bin\Debug\netcoreapp2.0\AspNetCoreMvc.pdb
+C:\Users\90536\Desktop\MVCTamamlananProjeler\AspNetMvcCorePersonel(100video1.projesi)\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\obj\Debug\netcoreapp2.0\AspNetCoreMvc.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\MVCTamamlananProjeler\AspNetMvcCorePersonel(100video1.projesi)\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\obj\Debug\netcoreapp2.0\AspNetCoreMvc.AssemblyInfoInputs.cache
+C:\Users\90536\Desktop\MVCTamamlananProjeler\AspNetMvcCorePersonel(100video1.projesi)\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\obj\Debug\netcoreapp2.0\AspNetCoreMvc.AssemblyInfo.cs
+C:\Users\90536\Desktop\MVCTamamlananProjeler\AspNetMvcCorePersonel(100video1.projesi)\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\obj\Debug\netcoreapp2.0\AspNetCoreMvc.dll
+C:\Users\90536\Desktop\MVCTamamlananProjeler\AspNetMvcCorePersonel(100video1.projesi)\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\obj\Debug\netcoreapp2.0\AspNetCoreMvc.pdb
+C:\Users\90536\Desktop\MVCTamamlananProjeler\AspNetMvcCorePersonel(100video1.projesi)\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\90536\Desktop\MVCTamamlananProjeler\AspNetMvcCorePersonel(100video1.projesi)\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\90536\Desktop\MVCTamamlananProjeler\AspNetMvcCorePersonel(100video1.projesi)\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\90536\Desktop\MVCTamamlananProjeler\AspNetMvcCorePersonel(100video1.projesi)\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\obj\Debug\netcoreapp2.0\AspNetCoreMvc.csproj.AssemblyReference.cache
+C:\Users\90536\Desktop\MVCTamamlananProjeler\AspNetMvcCorePersonel(100video1.projesi)\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\obj\Debug\netcoreapp2.0\AspNetCoreMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90536\Desktop\MVCTamamlananProjeler\AspNetMvcCorePersonel(100video1.projesi)\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\obj\Debug\netcoreapp2.0\AspNetCoreMvc.genruntimeconfig.cache
+C:\Users\90536\Desktop\GitHub\AspNetMvcCorePersonel(100video1.projesi)\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\bin\Debug\netcoreapp2.0\AspNetCoreMvc.deps.json
+C:\Users\90536\Desktop\GitHub\AspNetMvcCorePersonel(100video1.projesi)\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\bin\Debug\netcoreapp2.0\AspNetCoreMvc.runtimeconfig.json
+C:\Users\90536\Desktop\GitHub\AspNetMvcCorePersonel(100video1.projesi)\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\bin\Debug\netcoreapp2.0\AspNetCoreMvc.runtimeconfig.dev.json
+C:\Users\90536\Desktop\GitHub\AspNetMvcCorePersonel(100video1.projesi)\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\bin\Debug\netcoreapp2.0\AspNetCoreMvc.dll
+C:\Users\90536\Desktop\GitHub\AspNetMvcCorePersonel(100video1.projesi)\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\bin\Debug\netcoreapp2.0\AspNetCoreMvc.pdb
+C:\Users\90536\Desktop\GitHub\AspNetMvcCorePersonel(100video1.projesi)\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\obj\Debug\netcoreapp2.0\AspNetCoreMvc.AssemblyInfoInputs.cache
+C:\Users\90536\Desktop\GitHub\AspNetMvcCorePersonel(100video1.projesi)\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\obj\Debug\netcoreapp2.0\AspNetCoreMvc.AssemblyInfo.cs
+C:\Users\90536\Desktop\GitHub\AspNetMvcCorePersonel(100video1.projesi)\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\obj\Debug\netcoreapp2.0\AspNetCoreMvc.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\GitHub\AspNetMvcCorePersonel(100video1.projesi)\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\obj\Debug\netcoreapp2.0\AspNetCoreMvc.dll
+C:\Users\90536\Desktop\GitHub\AspNetMvcCorePersonel(100video1.projesi)\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\obj\Debug\netcoreapp2.0\AspNetCoreMvc.pdb
+C:\Users\90536\Desktop\GitHub\AspNetMvcCorePersonel(100video1.projesi)\AspNetCoreMvcPersonelGitHup\AspNetCoreMvcPersonel\AspNetCoreMvc\obj\Debug\netcoreapp2.0\AspNetCoreMvc.csprojAssemblyReference.cache
